@@ -1,0 +1,3 @@
+﻿  Controller_AI_KarinaSinha.cpp
+C:\Users\Karina\Desktop\Spring 2020\Game AI\GameAIProj3\CrashLoyal\Controller_AI_KarinaSinha\src\Controller_AI_KarinaSinha.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Controller_AI_KarinaSinha.vcxproj -> C:\Users\Karina\Desktop\Spring 2020\Game AI\GameAIProj3\CrashLoyal\Debug\Controller_AI_KarinaSinha.lib
